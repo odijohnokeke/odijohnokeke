@@ -6,7 +6,7 @@ I am an engineer and researcher with an interdisciplinary background in mechanic
 
 Currently, my research interests include laser-based microfabrication, conductive materials, eco-friendly sensors, and electrochemical sensing. I am also interested in applying data analysis, process optimization, and continuous improvement methodologies to engineering problems.
 
-Research Interests
+Research
 
 Materials Science & Microfabrication: Laser-processed materials, polymer-derived conductive structures, and silicon carbide composites.
 Sensor Technologies: Electrochemical sensing, environmental monitoring, and sensor development for human and environmental applications.
