@@ -17,6 +17,7 @@ Data Analysis: Experimental data interpretation, research visualization, and evi
 Research Experience
 
 Research Assistant @ Louisiana Tech University
+
 Investigate laser-based patterning of PDMS-derived structures for potential biointerfacial and sensing applications.
 Contribute to multidisciplinary research on eco-friendly sensors for environmental and human detection.
 Collaborate with faculty, research staff, and graduate researchers on experimental investigations and technical reporting.
