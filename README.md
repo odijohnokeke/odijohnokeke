@@ -1,6 +1,6 @@
 Hi, I'm Okeke John Odirachukwu
 
-Engineer | Researcher | Materials Science & Sensor Development | Continuous Improvement
+Engineer | Researcher | Micro/Nano Systems| Continuous Improvement
 
 I am an engineer and researcher with an interdisciplinary background in mechanical engineering, aerospace engineering, microsystems engineering, and engineering management. My work and interests focus on experimental research, advanced materials, sensor technologies, and engineering solutions that address practical industrial and environmental challenges.
 
@@ -8,7 +8,7 @@ Currently, my research interests include laser-based microfabrication, conductiv
 
 Research
 
-Materials Science & Microfabrication: Laser-processed materials, polymer-derived conductive structures, and silicon carbide composites.
+Materials/ Microfabrication: Laser-processed materials, polymer-derived conductive structures, and silicon carbide composites.
 Sensor Technologies: Electrochemical sensing, environmental monitoring, and sensor development for human and environmental applications.
 Aerospace & Mechanical Engineering: Engineering materials, rotating equipment, maintenance, and reliability.
 Engineering Management: Lean manufacturing, Six Sigma, project management, and process improvement.
@@ -44,15 +44,15 @@ What I'm Building on GitHub
 
 I plan to use this space to document and share engineering projects, research workflows, and technical analyses, including:
 
-Experimental data analysis and visualization
-Sensor research and electrochemical data interpretation
-Materials science and microfabrication research
-Engineering calculations and simulation projects
-Lean Six Sigma and process-improvement case studies
+Experimental data analysis and visualization,
+Sensor research and electrochemical data interpretation,
+Materials science and microfabrication research,
+Engineering calculations and simulation projects,
+Lean Six Sigma and process-improvement case studies.
 
 Connect With Me
 
 LinkedIn: [Okeke John Odirachukwu](https://www.linkedin.com/in/odijohnokeke)
 Email: odiokeke@duck.com
 
-I welcome opportunities to collaborate on mechanical and aerospace engineering research, sensor technologies, materials science, and practical solutions to industrial and environmental challenges.
+I welcome opportunities to collaborate on practical solutions to industrial and environmental challenges.
